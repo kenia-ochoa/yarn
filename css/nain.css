@@ -1,0 +1,39 @@
+.body {
+	background:#FEFEFE;
+	background-image: url(../img/fondo1.jpg);
+	background-size: 100vw 120vh;
+	background-attachment: fixed;
+}
+.contenedor{
+	background-color:blue;
+	width: 300px;
+	height: 300px;
+	margin-bottom: 10px
+
+
+}
+#menu{
+	height: 500px;
+	
+}
+#yarn{
+
+}
+ #funciones{
+
+ }
+ #requisitos_instalacion{
+
+ }
+#pasos_instalacion{
+
+}
+#como_usar_Yarn{
+
+}
+#contenedor_principal{
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
