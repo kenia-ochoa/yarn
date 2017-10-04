@@ -117,8 +117,9 @@ body {
 
 	
 	#tutorial {
-		text-align: center
-			;
+		text-align: center;
+anchura : 900 px ;
+altura : 500 px ;
 	margin-right: auto;
 	margin-left: auto;
 
