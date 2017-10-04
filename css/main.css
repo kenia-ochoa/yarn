@@ -114,7 +114,14 @@ body {
 	margin-right: auto;
     padding: 20px;
     text-align: center;
-}
+
+	
+	#tutorial {
+		text-align: center
+			;
+		
+
+		
 #como_usar_Yarn{
 width: 900px;
 text-align: center;
