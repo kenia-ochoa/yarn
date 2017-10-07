@@ -1,0 +1,126 @@
+
+.contenedor{
+
+	background-color: #819FF7;
+	width: 1000px;
+	height: 200px;
+	margin-bottom: 10px
+}
+body{
+	fondo : #FEFEFE ;
+	background-image : url ( ../img/fondo0.jpg );
+	tamaño de fondo : 100 vw  120 vh ;
+	fondo-adjunto : fijo ;
+}
+
+.boton{
+	color: white;
+	background-color: #CED8F6;
+	color: black;
+	cursor: pointer;
+	display: inline-block;
+	width: 70px;
+	height: 40px;
+	border-radius: 10px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 60px;
+	-o-border-radius: 60px;
+	text-align: center;
+	padding-top: 50px;
+	text-decoration: none;
+	font-family: verdana;
+	padding: 22px;
+
+
+}
+.boton:hover{
+	color:blue;
+	background-color:silver;
+}
+#menu{
+	text-align: center;
+	height: 100px;
+
+	
+}
+.imagen{
+	display: inline-block;
+	border-right-color: blue;
+	width: 500px;
+	height: 50px;
+	padding: 20px;
+	text-align: center;
+ 
+}
+.texto_yarn{
+		text-align: center;
+	display: inline-block;
+	width: 700px;
+	padding: 30px;
+	text-align: center;
+
+}
+#yarn{
+	height: 500px;
+
+
+
+}
+
+.texto_funciones
+    display: inline-block;
+
+ #funciones{
+ 	height: 50px;
+
+ }
+
+
+#abrir
+
+
+
+ .texto_requisitos_instalacion
+ 
+
+
+       
+
+ #requisitos_instalacion{
+
+ 	width: 20px;
+	
+ 
+ }
+ }
+
+.text_pasos_instalacion
+
+
+
+#tutorial{
+	width: 2000px;
+	margin-left: auto;
+	margin-right: auto;
+    padding: 10px;
+    text-align: center;
+}
+
+#pasos_instalacion{
+	width: 2000px;
+	margin-left: auto;
+	margin-right: auto;
+    padding: 10px;
+    text-align: center;
+}
+#como_usar_Yarn{
+width: 100px;
+text-align: center;
+}
+#contenedor_principal{
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	float: left;
+
+}
